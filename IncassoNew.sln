@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncassoNew.api", "IncassoNew.api\IncassoNew.api.csproj", "{6C8F3889-7494-493B-BFBB-1D5880E66CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncassoNew.Web.Admin", "IncassoNew.Web.Admin\IncassoNew.Web.Admin.csproj", "{0B94DA3E-8529-49E2-869F-B3323FB51762}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{6C8F3889-7494-493B-BFBB-1D5880E66CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C8F3889-7494-493B-BFBB-1D5880E66CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C8F3889-7494-493B-BFBB-1D5880E66CD3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B94DA3E-8529-49E2-869F-B3323FB51762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B94DA3E-8529-49E2-869F-B3323FB51762}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B94DA3E-8529-49E2-869F-B3323FB51762}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B94DA3E-8529-49E2-869F-B3323FB51762}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
