@@ -14,5 +14,7 @@ namespace IncassoNew.api.Controllers
     {
         public static OAuthBearerAuthenticationOptions OAuthBearerOptions { get; private set; }
 
+        
+
     }
 }
